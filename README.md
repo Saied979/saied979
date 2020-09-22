@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half Finish!!!
 -->
+
+
+👨🏼‍💻 building [murphee][murphee]  
+🧠 learning [svelte][svelte] and [tailwind][tailwind]  
+💜 loving [react][react], [gatsby][gatsby], [styled-components][styled], [jamstack][jamstack]  
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+🎥 [twitch][twitch] **|** 
+📦 [npm][npm] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+[youtube]: https://youtube.com/bradgarropy
+[instagram]: https://instagram.com/bradgarropy
+[linkedin]: https://linkedin.com/in/bradgarropy
