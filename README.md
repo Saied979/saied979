@@ -15,18 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I am half Finish!!!
 
 
-👨🏼‍💻 building [murphee][murphee]  
-🧠 learning [svelte][svelte] and [tailwind][tailwind]  
-💜 loving [react][react], [gatsby][gatsby], [styled-components][styled], [jamstack][jamstack]  
+👨🏼‍💻 building [??][__]  
+🧠 learning [][]
+💜 loving [python] 
 
 🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|** 
-📦 [npm][npm] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-[youtube]: https://youtube.com/bradgarropy
-[instagram]: https://instagram.com/bradgarropy
-[linkedin]: https://linkedin.com/in/bradgarropy
+[youtube]: https://youtube.com/
+[instagram]: https://instagram.com/
+[linkedin]: https://linkedin.com/in/
+[facebook]: https://www.facebook.com/Saied.A.CR7/
