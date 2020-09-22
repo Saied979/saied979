@@ -2,7 +2,7 @@
 
 <!--
 **Saied979/saied979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Python Project
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... saiedanwar844@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half Finish!!!
--->
 
 
 👨🏼‍💻 building [murphee][murphee]  
